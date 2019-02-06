@@ -1,5 +1,5 @@
 package main
-include {
+#include {
   "frm"
 }
 func main() {
