@@ -1,8 +1,8 @@
 package main
-#include {
-  "frm"
-}
+
+import "fmt"
+
 func main() {
-	frm.println("HI")
+	fmt.Println("HI")
 
 }
